@@ -1,7 +1,6 @@
 # APC
 Arbitrary Precision Calculator
-update makefile in APC and apcmain, before testing.
-
+args can go to  any length
 usage ex:
 1. expr : -1.25 / 125
 2. expr : 12548 % 12 (use only signed int type for mod)
@@ -10,3 +9,5 @@ usage ex:
 5. expr : 1254*-142.1
 6. expr : 1234+142
 
+
+Note : It is not memory optimised. 
