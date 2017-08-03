@@ -2,7 +2,9 @@
 Arbitrary Precision Calculator
 
 args can go to any length
+
 run APCTEST
+
 usage ex:
 1. expr : -1.25 / 125
 2. expr : 12548 % 12 (use only signed int type for mod)
